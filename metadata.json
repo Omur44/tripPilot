@@ -1,0 +1,6 @@
+{
+  "name": "TripPilot AI",
+  "description": "Интеллектуальный планировщик путешествий с ИИ: составляйте маршруты, рассчитывайте бюджет, исследуйте города с аудиогидом и общайтесь с личным ИИ-помощником.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
